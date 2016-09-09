@@ -34,7 +34,7 @@ LICENSE
 
 s.author = { "Christian Deckert" => "Christian.Deckert@icloud.com" }
 s.homepage = "https://github.com/ChristianDeckert/CDTools"
-s.source = { :git => "https://github.com/ChristianDeckert/CDTools.git", :branch => "master" }
+s.source = { :git => "https://github.com/ChristianDeckert/CDTools.git", :branch => "feature/swift23" }
 #s.source = { :git => "https://github.com/ChristianDeckert/CDTools.git", :branch => "master", :tag => "#{s.version}"}
 #s.source = { :git => "https://github.com/ChristianDeckert/CDTools.git", :commit => "09285da0bdd09b25c7bb3585848c65934be7f2c8" }
 
